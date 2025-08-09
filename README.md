@@ -25,7 +25,7 @@ Developed in **Python** with **OpenCV**, **cvzone**, and **pygame** for sound ef
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/balloon-pop-game.git
+   git clone https://github.com/homaja1250/balloon-pop-game.git
    cd balloon-pop-game
    ```
 2. Install the required packages:
